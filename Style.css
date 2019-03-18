@@ -1,0 +1,50 @@
+body {
+	background-color: black;
+}
+
+h1 {
+	font-size: 60px;
+	font-family: "Times New Roman", Times, serif;
+	color: blue;
+}
+
+p2 {
+	color: blue;
+}
+
+div {
+	text-align: center;
+}
+
+h3 {
+	text-decoration: underline;
+	text-align: left;
+	color: white;
+}
+
+p2 {
+	text-align: left;
+	color: white;
+}
+
+div3 {
+	color: white;
+	opacity: 0.75;
+}
+h2 {
+	Font-size: 24px;
+	color: White;
+	text-decoration: underline;
+	text-align: center;
+}
+		p {
+			opacity: 0.75;
+		}
+div2 {
+	text-align: left;
+}
+p5 {
+	color: blue;
+	font-weight: bold;
+	text-decoration: underline;
+}
